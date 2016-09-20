@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/pclist</path>
+    <page_callback>CRM_Campaignstab_Page_PCList</page_callback>
+    <title>PCList</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
